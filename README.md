@@ -10,9 +10,9 @@ A few resources for Flutter project:
 - [Dark SDK downgrade for flutter swiper](https://polarcompass.tistory.com/227)
 - [null-safety issue](https://postforty.tistory.com/79)
   * In VS Code: Manage->Setting->Flutter Run Additional Args->Add Item
-  '''python
+  ```shell
   --no-sound-null-safety
-  '''
+  ```
 
 ### 1. 플러터 프론트엔드 반응형 앱 만들기
   * 프로젝트 구조 설정 및 홈 화면 만들기 ✅
