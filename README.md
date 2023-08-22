@@ -17,7 +17,7 @@ A few resources for Flutter project:
 ### 1. 플러터 프론트엔드 반응형 앱 만들기
   * 프로젝트 구조 설정 및 홈 화면 만들기 ✅
   * 퀴즈 모델 및 풀기 화면 만들기 ✅
-  * 퀴즈 결과 화면 만들기
+  * 퀴즈 결과 화면 만들기 ✅
 
 ### 2. 장고 백엔드 API 서버 만들기
   * Django Rest Framework 개발 및 API 만들기
