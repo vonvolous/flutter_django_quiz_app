@@ -27,16 +27,17 @@ A few resources for Flutter project:
       $ virtualenv {env name} //가상 환경 생성
       $ source quiz/bin/activate // 가상 환경 활성화
     ```
+    <br />
     - django 설치:
     1. pip install django djangorestFramework
     2. django-admin startproject {myapi} . //프로젝트 생성
     3. python manage.py startapp {app name} // 앱 폴더 생성
-
+    <br />
     - django app 실행:
     1. python manage.py makemigrations
     2. python manage.py migrate
     3. python manage.py runserver
-
+    <br />
     - 관리자 설정:
     1. python manage.py createsuperuser
     2. 서버 실행후 /admin으로 이동해 로그인
