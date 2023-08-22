@@ -47,3 +47,13 @@ app.*.map.json
 
 # env
 quiz_backend/quiz
+
+__pycache__/
+*.py[code]
+
+.Python
+
+db.sqlite3
+.DS_Store
+
+.vscode/
